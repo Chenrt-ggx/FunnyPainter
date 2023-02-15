@@ -1,5 +1,6 @@
 # Funny Painter
 
+![category](https://img.shields.io/badge/frontend-Plain-blueviolet)
 ![license](https://img.shields.io/github/license/Chenrt-ggx/FunnyPainter)
 
 > 滑稽树上滑稽果，滑稽树下你和我。
